@@ -1,3 +1,5 @@
+# 2048
+
 Program Description:
 The project is called 2048. This project will generate a visualized 
 2048 game. The player can use the arrow keys on the key board to move the 
@@ -8,3 +10,16 @@ the game window by simply drag the window and the
 tile will become bigger or smaller as the player drag the windows.
 They can also expand the board by hiting e key and undo the previous 
 operation by hiting u key.
+
+## Prerequisities
+
+Need Java
+
+## Running
+
+Run `java Gui2048` in terminal
+
+## Built With
+
+* Java - Programming language
+* JavaFX - Application Framework
